@@ -1,6 +1,6 @@
 # Women's Digital Literacy Workshop Website
 
-This website was built as part of a demonstration of how to design, develop and deploy a website from scratch, using HTML and free online services. This site was built in half an hour on the 4th of December, 2019.
+This website was built as part of a demonstration of how to design, develop and deploy a website from scratch, using HTML, CSS, VS Code, Github and Netlify. This site was built in half an hour on the 4th of December, 2019.
 
 ## Want to build your own site?
 

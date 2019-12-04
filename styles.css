@@ -27,3 +27,7 @@ p {
 p.tagline {
   font-style: italic;
 }
+
+li {
+  font-size: 24px;
+}
